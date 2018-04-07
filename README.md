@@ -1,6 +1,6 @@
 # rpmbuild-wraith
 
-Create a wraith RPM for RHEL/CentOS.
+Create a Wraith IRC Bot RPM for RHEL/CentOS.
 
 ## Requirements
 
