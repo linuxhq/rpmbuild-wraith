@@ -1,3 +1,6 @@
+[![Package Cloud](https://img.shields.io/badge/packagecloud-wraith-blue.svg?style=flat)](https://packagecloud.io/linuxhq/wraith)
+[![License](https://img.shields.io/badge/license-GPLv3-brightgreen.svg?style=flat)](COPYING)
+
 # rpmbuild-wraith
 
 Create a Wraith IRC Bot RPM for RHEL/CentOS.
